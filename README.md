@@ -1,4 +1,4 @@
-# # Credit Risk Model Bias Audit with SHAP & LIME
+# Credit Risk Model Bias Audit with SHAP & LIME
 
 ### Project Overview
 
